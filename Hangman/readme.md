@@ -1,5 +1,8 @@
 # Hangman Game
 
+![Screenshot (12)](https://github.com/NIGASH333/CodeAlpha/assets/113447646/0d622624-9eea-49da-a282-e34dd55a99ea)
+
+
 This is a simple Hangman game implemented in Python. The game randomly selects a word from a predefined list, and the player must guess the letters in the word within a limited number of attempts.
 
 ## How to Play
