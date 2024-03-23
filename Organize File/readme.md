@@ -2,10 +2,13 @@
 ![Screenshot (13)](https://github.com/NIGASH333/CodeAlpha/assets/113447646/f04ca057-43dd-4dc0-ab99-6d964b9d855d)
 
 
+
 ![Screenshot (14)](https://github.com/NIGASH333/CodeAlpha/assets/113447646/e1b4ce55-a1f8-4065-aac5-4ce3103823fc)
 
 
+
 ![Screenshot (15)](https://github.com/NIGASH333/CodeAlpha/assets/113447646/b26f6162-4ec1-4c3d-905c-abba1ae4b1f1)
+
 
 
 This Python script helps organize files within a specified directory based on their file extensions. It categorizes files into different folders according to their types, such as images, documents, videos, audios, archives, executables, scripts, and others.
