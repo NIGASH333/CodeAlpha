@@ -1,5 +1,8 @@
 # Simple Python Chatbot
 
+![Screenshot (11)](https://github.com/NIGASH333/CodeAlpha/assets/113447646/f4873693-d451-4c48-b13e-2eedd69af94f)
+
+
 ![Chatbot](chatbot.png)
 
 This is a simple text-based chatbot implemented in Python using the Natural Language Toolkit (NLTK) library. The chatbot engages in conversations with users by responding to various patterns defined in its conversation pairs.
